@@ -1,1 +1,3 @@
-나는 콤보 
+public void run() {
+    System.out.println("something has wrong");
+}
